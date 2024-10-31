@@ -1,9 +1,9 @@
-# Conversor de moeda
+# Conversor de moeda 🪙
 
-este projeto consiste em ser um conversor de moedas, de ínicio temos as seguintes converssões
-para Dolar(USD), Euro(EUR) e Real(BRL), mais também pode ser adicionado futuramente uma atuaçização de outras moedas e criar uma maior diversidade. o usuário pode inserir valor que ele desejar para converter, ele seleciona para que tipo de moeda ele deseja converter e em seguida o programa retorna o valor convertido.
+Este projeto consiste em ser um conversor de moedas, de ínicio temos as seguintes converssões
+para Dolar(USD), Euro(EUR) e Real(BRL), mais também pode ser adicionado futuramente uma atualização de outras moedas e criar uma maior diversidade. o usuário pode inserir valor que ele desejar para converter, ele seleciona para que tipo de moeda ele deseja converter e em seguida o programa retorna o valor convertido.
 
-## Funcionalidades:
+## Funcionalidades ⚙️ 
 
 - **Entrada de Valor**: Os usuários podem inserir um valor numérico que desejam converter.
 - **Seleção de Moedas**: O conversor suporta três moedas: Dólar (USD), Euro (EUR) e Real (BRL).
@@ -55,7 +55,7 @@ para Dolar(USD), Euro(EUR) e Real(BRL), mais também pode ser adicionado futuram
 
 * O resultado da conversão é exibido em uma tag HTML, permitindo ao usuário ver o valor convertido.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 💻
 
 - HTML
 - CSS
